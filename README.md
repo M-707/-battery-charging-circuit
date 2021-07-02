@@ -7,8 +7,10 @@ drawbacks/
 A little bit more expensive than other types.
 Bigger.
 
-As  one 12 dc motor drive 0.33 A resulting two 12 dc motors connecteed  IN PARALLEL with 0.66 A.
+As  one 12 dc motor of my own drives 0.33 A resulting two 12 dc motors connecteed  IN PARALLEL with 0.66 A.
 
 with turning on and off load circuit with slide switch.
 if green led is on load is on ( motor ).
+
+tinkercad cicuit is not exactly the same real model of ( batteries, and motor ).
 copywrite to theory circuit website.
